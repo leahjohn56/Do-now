@@ -28,3 +28,28 @@ h1 {
     border-color: #004643;
     padding-left: 10px;
   }
+
+  .red {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 5px;
+    display: inline-block;
+  }
+
+  .green {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin: 5px;
+    display: inline-block;
+  }
+
+  .blue {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 5px;
+    display: inline-block;
+  }
+
